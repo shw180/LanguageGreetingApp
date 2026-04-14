@@ -33,6 +33,12 @@ PrintWriter out=response.getWriter();
 
 String username=request.getParameter("userInputName");
 
+if(username == null || username.trim().isEmpty()) {
+    out.println("<h2 style='color:red;'>Please enter your name.</h2>");
+    out.println("<a href='enterName.html'>Go Back</a>");
+    return;
+}
+  
 HttpSession session=request.getSession(false);
 
 if(session==null){
