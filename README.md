@@ -36,7 +36,7 @@ This project is a Language-Based Greeting Web Application developed using Java S
 4. Right-click project → Run As → Run on Server.
 5. Open browser and go to:
 
-http://localhost:8080/LanguageGreetingApp/index.html
+http://localhost:8081/LanguageGreetingApp/index.html
 
 ---
 
