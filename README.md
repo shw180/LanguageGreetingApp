@@ -34,22 +34,22 @@ The application demonstrates the use of Servlets, HTML forms, request handling, 
 ## Screenshots
 
 ### Language Selection Page
-![Language Selection](src/main/webapp/screenshots/language_selection.png)
+![Language Selection](screenshots/language_selection.png)
 
 ### Name Input Page
-![Name Input](src/main/webapp/screenshots/name_input.png)
+![Name Input](screenshots/name_input.png)
 
 ### English Greeting Output
-![English Output](src/main/webapp/screenshots/english_output.png)
+![English Output](screenshots/english_output.png)
 
 ### Hindi Greeting Output
-![Hindi Output](src/main/webapp/screenshots/hindi_output.png)
+![Hindi Output](screenshots/hindi_output.png)
 
 ### Kannada Greeting Output
-![Kannada Output](src/main/webapp/screenshots/kannada_output.png)
+![Kannada Output](screenshots/kannada_output.png)
 
 ### Tamil Greeting Output
-![Tamil Output](src/main/webapp/screenshots/tamil_output.png)
+![Tamil Output](screenshots/tamil_output.png)
 
 ### Telugu Greeting Output
-![Telugu Output](src/main/webapp/screenshots/telugu_output.png)
+![Telugu Output](screenshots/telugu_output.png)
