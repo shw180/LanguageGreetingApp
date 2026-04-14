@@ -44,11 +44,11 @@ http://localhost:8081/LanguageGreetingApp/index.html
 
 ### Language Selection Page
 
-![Language Selection](screenshots/language_selection.png)
+![Language Selection](screenshots/1_language_selection.png)
 
 ### Name Input Page
 
-![Name Input](screenshots/name_input.png)
+![Name Input](screenshots/2_name_input.png)
 
 ### English Greeting Output
 
