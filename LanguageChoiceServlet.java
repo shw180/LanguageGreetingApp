@@ -13,12 +13,14 @@ throws ServletException, IOException {
 
 String selectedCode = request.getParameter("languageOption");
 
+if(selectedCode == null) {
+    response.sendRedirect("index.html");
+    return;
+}
 
 HttpSession session = request.getSession(true);
 
-
 session.setAttribute("langKey", selectedCode);
-
 
 response.sendRedirect("enterName.html");
 
